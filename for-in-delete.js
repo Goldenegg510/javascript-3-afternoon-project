@@ -44,7 +44,7 @@ function showValues(obj) {
   for (var prop in obj) {
     string += obj[prop]
   }
-  console.log(string)
+  //console.log(string)
   return string
 }
 
