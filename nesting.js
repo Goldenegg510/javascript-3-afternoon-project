@@ -157,9 +157,9 @@ var myCar = {
     3. Change atFaultForAccident from true to false.
 */
 
-function recordCleaner(){
-  for ()
-}
+// function recordCleaner(){
+//   for ()
+// }
 
 
 
